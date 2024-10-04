@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "64f640a79b92e21c5b8a1a1e",
+    "title": "Introduction to JavaScript",
+    "content": "JavaScript is a versatile programming language.",
+    "user": "64f63f1e9b92e21c5b8a1a1a"
+  },
+  {
+    "_id": "64f640a79b92e21c5b8a1a1f",
+    "title": "Understanding Node.js",
+    "content": "Node.js allows JavaScript to run on the server-side.",
+    "user": "64f63f1e9b92e21c5b8a1a1b"
+  },
+  {
+    "_id": "64f640a79b92e21c5b8a1a20",
+    "title": "MongoDB Aggregation Pipeline",
+    "content": "The aggregation pipeline in MongoDB provides a way to transform data.",
+    "user": "64f63f1e9b92e21c5b8a1a1a"
+  },
+  {
+    "_id": "64f640a79b92e21c5b8a1a21",
+    "title": "Frontend vs Backend Development",
+    "content": "Both frontend and backend development are essential for web applications.",
+    "user": "64f63f1e9b92e21c5b8a1a1c"
+  },
+  {
+    "_id": "64f640a79b92e21c5b8a1a22",
+    "title": "Best Practices for Web Security",
+    "content": "Web security is critical to protect user data.",
+    "user": "64f63f1e9b92e21c5b8a1a1d"
+  }
+]

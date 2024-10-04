@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "64f63f1e9b92e21c5b8a1a1a",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 30
+  },
+  {
+    "_id": "64f63f1e9b92e21c5b8a1a1b",
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "age": 25
+  },
+  {
+    "_id": "64f63f1e9b92e21c5b8a1a1c",
+    "name": "Charlie Adams",
+    "email": "charlie@example.com",
+    "age": 35
+  },
+  {
+    "_id": "64f63f1e9b92e21c5b8a1a1d",
+    "name": "Diana Bell",
+    "email": "diana@example.com",
+    "age": 28
+  }
+]

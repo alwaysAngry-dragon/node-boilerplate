@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "64f641a99b92e21c5b8a1a23",
+    "text": "Great post on JavaScript!",
+    "post": "64f640a79b92e21c5b8a1a1e",
+    "user": "64f63f1e9b92e21c5b8a1a1b"
+  },
+  {
+    "_id": "64f641a99b92e21c5b8a1a24",
+    "text": "Very helpful article on Node.js, thanks!",
+    "post": "64f640a79b92e21c5b8a1a1f",
+    "user": "64f63f1e9b92e21c5b8a1a1a"
+  },
+  {
+    "_id": "64f641a99b92e21c5b8a1a25",
+    "text": "This post clarified aggregation for me.",
+    "post": "64f640a79b92e21c5b8a1a20",
+    "user": "64f63f1e9b92e21c5b8a1a1c"
+  },
+  {
+    "_id": "64f641a99b92e21c5b8a1a26",
+    "text": "Security is always a priority!",
+    "post": "64f640a79b92e21c5b8a1a22",
+    "user": "64f63f1e9b92e21c5b8a1a1a"
+  },
+  {
+    "_id": "64f641a99b92e21c5b8a1a27",
+    "text": "I love this comparison between frontend and backend!",
+    "post": "64f640a79b92e21c5b8a1a21",
+    "user": "64f63f1e9b92e21c5b8a1a1d"
+  },
+  {
+    "_id": "64f641a99b92e21c5b8a1a28",
+    "text": "Web security is so important, thanks for sharing.",
+    "post": "64f640a79b92e21c5b8a1a22",
+    "user": "64f63f1e9b92e21c5b8a1a1b"
+  }
+]
